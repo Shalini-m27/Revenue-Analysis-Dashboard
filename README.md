@@ -2,7 +2,7 @@
 ----
 📌 Project Overview
 ----
-This project is an interactive Revenue Analysis Dashboard designed to analyze business performance using sales data. The dashboard provides insights into revenue trends, category performance, city-wise sales, and payment method distribution.
+This project is an interactive Revenue Analysis Dashboard designed to analyze business performance using sales data which I have cleaned it using power query. The dashboard provides insights into revenue trends, category performance, city-wise sales, and payment method distribution.
 
 🚀 Key Features
 ----
@@ -16,6 +16,7 @@ Interactive Slicers for Dynamic Filtering
 🛠 Tech Stack
 ----
 Microsoft Excel
+Power query 
 Pivot Tables
 Pivot Charts
 Slicers
